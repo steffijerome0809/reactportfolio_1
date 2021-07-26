@@ -52,7 +52,7 @@ const About = () => {
                   </div>
                   <div>
                     <a
-                      href='https://docs.google.com/document/d/1yT0bU4R1JOpzsR54Mwqp5Or4wgkJOLWt/edit'
+                      href='https://docs.google.com/document/d/1zSULwxZ6zS0U8jgvP70j6uK9QnKH6Ggd/edit'
                       target='_blank'
                       rel='noopener noreferrer'
                     >
